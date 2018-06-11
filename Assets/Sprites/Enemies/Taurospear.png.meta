@@ -30,12 +30,12 @@ TextureImporter:
     21300050: Taurospear_25
     21300052: Taurospear_26
     21300054: Taurospear_27
-    21300056: Taurospear_42
+    21300056: Taurospear_28
     21300058: Taurospear_29
     21300060: Taurospear_44
     21300062: Taurospear_30
     21300064: Taurospear_46
-    21300066: Taurospear_47
+    21300066: Taurospear_31
     21300068: Taurospear_32
     21300070: Taurospear_49
     21300072: Taurospear_33
@@ -515,26 +515,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Taurospear_31
-      rect:
-        serializedVersion: 2
-        x: 1147
-        y: 640
-        width: 4
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06149125806039d4a9ed1312779a7bef
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Taurospear_19
       rect:
         serializedVersion: 2
@@ -582,8 +562,8 @@ TextureImporter:
         y: 214
         width: 189
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -602,8 +582,8 @@ TextureImporter:
         y: 214
         width: 189
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.57, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -622,8 +602,8 @@ TextureImporter:
         y: 214
         width: 323
         height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.78, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -642,8 +622,8 @@ TextureImporter:
         y: 214
         width: 306
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -655,15 +635,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Taurospear_42
+      name: Taurospear_28
       rect:
         serializedVersion: 2
         x: 1147
         y: 214
         width: 306
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.73, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -682,8 +662,8 @@ TextureImporter:
         y: 214
         width: 314
         height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.77, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -702,8 +682,8 @@ TextureImporter:
         y: 214
         width: 308
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -715,15 +695,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Taurospear_47
+      name: Taurospear_31
       rect:
         serializedVersion: 2
         x: 2139
         y: 214
         width: 309
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -742,8 +722,8 @@ TextureImporter:
         y: 214
         width: 328
         height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.78, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -762,8 +742,8 @@ TextureImporter:
         y: 214
         width: 313
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -782,8 +762,8 @@ TextureImporter:
         y: 214
         width: 305
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.73, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
