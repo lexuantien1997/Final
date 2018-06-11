@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: e67e3311976281d4e9001262b78b909b
+timeCreated: 1527006027
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chimera_0
+    21300002: Chimera_1
+    21300004: Chimera_2
+    21300006: Chimera_3
+    21300008: Chimera_4
+    21300010: Chimera_5
+    21300012: Chimera_6
+    21300014: Chimera_7
+    21300016: Chimera_8
+    21300018: Chimera_9
+    21300020: Chimera_10
+    21300022: Chimera_11
+    21300024: Chimera_12
+    21300026: Chimera_13
+    21300028: Chimera_14
+    21300030: Chimera_15
+    21300032: Chimera_16
+    21300034: Chimera_17
+    21300036: Chimera_18
+    21300038: Chimera_19
+    21300040: Chimera_20
+    21300042: Chimera_21
+    21300044: Chimera_22
+    21300046: Chimera_23
+    21300048: Chimera_24
+    21300050: Chimera_25
+    21300052: Chimera_26
+    21300054: Chimera_27
+    21300056: Chimera_28
+    21300058: Chimera_29
+    21300060: Chimera_30
+    21300062: Chimera_31
+    21300064: Chimera_32
+    21300066: Chimera_33
+    21300068: Chimera_34
+    21300070: Chimera_35
+    21300072: Chimera_36
+    21300074: Chimera_37
+    21300076: Chimera_38
+    21300078: Chimera_39
+    21300080: Chimera_40
+    21300082: Chimera_41
+    21300084: Chimera_42
+    21300086: Chimera_43
+    21300088: Chimera_44
+    21300090: Chimera_45
+    21300092: Chimera_46
+    21300094: Chimera_47
+    21300096: Chimera_48
+    21300098: Chimera_49
+    21300100: Chimera_50
+    21300102: Chimera_51
+    21300104: Chimera_52
+    21300106: Chimera_53
+    21300108: Chimera_54
+    21300110: Chimera_55
+    21300112: Chimera_56
+    21300114: Chimera_57
+    21300116: Chimera_58
+    21300118: Chimera_59
+    21300120: Chimera_60
+    21300122: Chimera_61
+    21300124: Chimera_62
+    21300126: Chimera_63
+    21300128: Chimera_64
+    21300130: Chimera_65
+    21300132: Chimera_66
+    21300134: Chimera_67
+    21300136: Chimera_68
+    21300138: Chimera_69
+    21300140: Chimera_70
+    21300142: Chimera_71
+    21300144: Chimera_72
+    21300146: Chimera_73
+    21300148: Chimera_74
+    21300150: Chimera_75
+    21300152: Chimera_76
+    21300154: Chimera_77
+    21300156: Chimera_78
+    21300158: Chimera_79
+    21300160: Chimera_80
+    21300162: Chimera_81
+    21300164: Chimera_82
+    21300166: Chimera_83
+    21300168: Chimera_84
+    21300170: Chimera_85
+    21300172: Chimera_86
+    21300174: Chimera_87
+    21300176: Chimera_88
+    21300178: Chimera_89
+    21300180: Chimera_90
+    21300182: Chimera_91
+    21300184: Chimera_92
+    21300186: Chimera_93
+    21300188: Chimera_94
+    21300190: Chimera_95
+    21300192: Chimera_96
+    21300194: Chimera_97
+    21300196: Chimera_98
+    21300198: Chimera_99
+    21300200: Chimera_100
+    21300202: Chimera_101
+    21300204: Chimera_102
+    21300206: Chimera_103
+    21300208: Chimera_104
+    21300210: Chimera_105
+    21300212: Chimera_106
+    21300214: Chimera_107
+    21300216: Chimera_108
+    21300218: Chimera_109
+    21300220: Chimera_110
+    21300222: Chimera_111
+    21300224: Chimera_112
+    21300226: Chimera_113
+    21300228: Chimera_114
+    21300230: Chimera_115
+    21300232: Chimera_116
+    21300234: Chimera_117
+    21300236: Chimera_118
+    21300238: Chimera_119
+    21300240: Chimera_120
+    21300242: Chimera_121
+    21300244: Chimera_122
+    21300246: Chimera_123
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chimera_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1537
+        width: 104
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1537
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1537
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1537
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1537
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1537
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1394
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1394
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1394
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1394
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1394
+        width: 109
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1394
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1224
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1346
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1029
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1029
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1029
+        width: 116
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1029
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1029
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1029
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1029
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_21
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1030
+        width: 127
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_22
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1030
+        width: 127
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 876
+        width: 130
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 875
+        width: 160
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 875
+        width: 177
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 875
+        width: 171
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 875
+        width: 173
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 875
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_30
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 875
+        width: 131
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_31
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 875
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 817
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 816
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 817
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 816
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 813
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 692
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 692
+        width: 131
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_48
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 691
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_51
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 691
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_52
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 691
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 692
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 494
+        width: 140
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_56
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 494
+        width: 132
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_57
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 499
+        width: 132
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_58
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 498
+        width: 138
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_59
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 497
+        width: 126
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_62
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 492
+        width: 121
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_63
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 492
+        width: 117
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 494
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_74
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 563
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_84
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_86
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 302
+        width: 117
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 302
+        width: 169
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_88
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 302
+        width: 167
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_89
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 419
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_90
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 302
+        width: 167
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_91
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 302
+        width: 156
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_92
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 302
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_101
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 125
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_102
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_103
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 103
+        width: 117
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_104
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 103
+        width: 103
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_105
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 103
+        width: 101
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_106
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 103
+        width: 127
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_107
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 102
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_108
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 102
+        width: 134
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_109
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 102
+        width: 136
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_110
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 102
+        width: 133
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_111
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_112
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 45
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 45
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 36
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_117
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 29
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_118
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_119
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 29
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_120
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 29
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_121
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_122
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 29
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chimera_123
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

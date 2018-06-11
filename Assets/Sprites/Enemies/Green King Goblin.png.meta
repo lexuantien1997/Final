@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: e819ade939002664fafdec80acaee8cb
+timeCreated: 1526926293
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Green King Goblin_0
+    21300002: Green King Goblin_1
+    21300004: Green King Goblin_2
+    21300006: Green King Goblin_3
+    21300008: Green King Goblin_4
+    21300010: Green King Goblin_5
+    21300012: Green King Goblin_6
+    21300014: Green King Goblin_7
+    21300016: Green King Goblin_8
+    21300018: Green King Goblin_9
+    21300020: Green King Goblin_10
+    21300022: Green King Goblin_11
+    21300024: Green King Goblin_12
+    21300026: Green King Goblin_13
+    21300028: Green King Goblin_14
+    21300030: Green King Goblin_15
+    21300032: Green King Goblin_16
+    21300034: Green King Goblin_17
+    21300036: Green King Goblin_18
+    21300038: Green King Goblin_19
+    21300040: Green King Goblin_20
+    21300042: Green King Goblin_21
+    21300044: Green King Goblin_22
+    21300046: Green King Goblin_23
+    21300048: Green King Goblin_24
+    21300050: Green King Goblin_25
+    21300052: Green King Goblin_26
+    21300054: Green King Goblin_27
+    21300056: Green King Goblin_28
+    21300058: Green King Goblin_29
+    21300060: Green King Goblin_30
+    21300062: Green King Goblin_31
+    21300064: Green King Goblin_32
+    21300066: Green King Goblin_33
+    21300068: Green King Goblin_34
+    21300070: Green King Goblin_35
+    21300072: Green King Goblin_36
+    21300074: Green King Goblin_37
+    21300076: Green King Goblin_38
+    21300078: Green King Goblin_39
+    21300080: Green King Goblin_40
+    21300082: Green King Goblin_41
+    21300084: Green King Goblin_42
+    21300086: Green King Goblin_43
+    21300088: Green King Goblin_44
+    21300090: Green King Goblin_45
+    21300092: Green King Goblin_46
+    21300094: Green King Goblin_47
+    21300096: Green King Goblin_48
+    21300098: Green King Goblin_49
+    21300100: Green King Goblin_50
+    21300102: Green King Goblin_51
+    21300104: Green King Goblin_52
+    21300106: Green King Goblin_53
+    21300108: Green King Goblin_54
+    21300110: Green King Goblin_55
+    21300112: Green King Goblin_56
+    21300114: Green King Goblin_57
+    21300116: Green King Goblin_58
+    21300118: Green King Goblin_59
+    21300120: Green King Goblin_60
+    21300122: Green King Goblin_61
+    21300124: Green King Goblin_62
+    21300126: Green King Goblin_63
+    21300128: Green King Goblin_64
+    21300130: Green King Goblin_65
+    21300132: Green King Goblin_66
+    21300134: Green King Goblin_67
+    21300136: Green King Goblin_68
+    21300138: Green King Goblin_69
+    21300140: Green King Goblin_70
+    21300142: Green King Goblin_71
+    21300144: Green King Goblin_72
+    21300146: Green King Goblin_73
+    21300148: Green King Goblin_74
+    21300150: Green King Goblin_75
+    21300152: Green King Goblin_76
+    21300154: Green King Goblin_77
+    21300156: Green King Goblin_78
+    21300158: Green King Goblin_79
+    21300160: Green King Goblin_80
+    21300162: Green King Goblin_81
+    21300164: Green King Goblin_82
+    21300166: Green King Goblin_83
+    21300168: Green King Goblin_84
+    21300170: Green King Goblin_85
+    21300172: Green King Goblin_86
+    21300174: Green King Goblin_87
+    21300176: Green King Goblin_88
+    21300178: Green King Goblin_89
+    21300180: Green King Goblin_90
+    21300182: Green King Goblin_91
+    21300184: Green King Goblin_92
+    21300186: Green King Goblin_93
+    21300188: Green King Goblin_94
+    21300190: Green King Goblin_95
+    21300192: Green King Goblin_96
+    21300194: Green King Goblin_97
+    21300196: Green King Goblin_98
+    21300198: Green King Goblin_99
+    21300200: Green King Goblin_100
+    21300202: Green King Goblin_101
+    21300204: Green King Goblin_102
+    21300206: Green King Goblin_103
+    21300208: Green King Goblin_104
+    21300210: Green King Goblin_105
+    21300212: Green King Goblin_106
+    21300214: Green King Goblin_107
+    21300216: Green King Goblin_108
+    21300218: Green King Goblin_109
+    21300220: Green King Goblin_110
+    21300222: Green King Goblin_111
+    21300224: Green King Goblin_112
+    21300226: Green King Goblin_113
+    21300228: Green King Goblin_114
+    21300230: Green King Goblin_115
+    21300232: Green King Goblin_116
+    21300234: Green King Goblin_117
+    21300236: Green King Goblin_118
+    21300238: Green King Goblin_119
+    21300240: Green King Goblin_120
+    21300242: Green King Goblin_121
+    21300244: Green King Goblin_122
+    21300246: Green King Goblin_123
+    21300248: Green King Goblin_124
+    21300250: Green King Goblin_125
+    21300252: Green King Goblin_126
+    21300254: Green King Goblin_127
+    21300256: Green King Goblin_128
+    21300258: Green King Goblin_129
+    21300260: Green King Goblin_130
+    21300262: Green King Goblin_131
+    21300264: Green King Goblin_132
+    21300266: Green King Goblin_133
+    21300268: Green King Goblin_134
+    21300270: Green King Goblin_135
+    21300272: Green King Goblin_136
+    21300274: Green King Goblin_137
+    21300276: Green King Goblin_138
+    21300278: Green King Goblin_139
+    21300280: Green King Goblin_140
+    21300282: Green King Goblin_141
+    21300284: Green King Goblin_142
+    21300286: Green King Goblin_143
+    21300288: Green King Goblin_144
+    21300290: Green King Goblin_145
+    21300292: Green King Goblin_146
+    21300294: Green King Goblin_147
+    21300296: Green King Goblin_148
+    21300298: Green King Goblin_149
+    21300300: Green King Goblin_150
+    21300302: Green King Goblin_151
+    21300304: Green King Goblin_152
+    21300306: Green King Goblin_153
+    21300308: Green King Goblin_154
+    21300310: Green King Goblin_155
+    21300312: Green King Goblin_156
+    21300314: Green King Goblin_157
+    21300316: Green King Goblin_158
+    21300318: Green King Goblin_159
+    21300320: Green King Goblin_160
+    21300322: Green King Goblin_161
+    21300324: Green King Goblin_162
+    21300326: Green King Goblin_163
+    21300328: Green King Goblin_164
+    21300330: Green King Goblin_165
+    21300332: Green King Goblin_166
+    21300334: Green King Goblin_167
+    21300336: Green King Goblin_168
+    21300338: Green King Goblin_169
+    21300340: Green King Goblin_170
+    21300342: Green King Goblin_171
+    21300344: Green King Goblin_172
+    21300346: Green King Goblin_173
+    21300348: Green King Goblin_174
+    21300350: Green King Goblin_175
+    21300352: Green King Goblin_176
+    21300354: Green King Goblin_177
+    21300356: Green King Goblin_178
+    21300358: Green King Goblin_179
+    21300360: Green King Goblin_180
+    21300362: Green King Goblin_181
+    21300364: Green King Goblin_182
+    21300366: Green King Goblin_183
+    21300368: Green King Goblin_184
+    21300370: Green King Goblin_185
+    21300372: Green King Goblin_186
+    21300374: Green King Goblin_187
+    21300376: Green King Goblin_188
+    21300378: Green King Goblin_189
+    21300380: Green King Goblin_190
+    21300382: Green King Goblin_191
+    21300384: Green King Goblin_192
+    21300386: Green King Goblin_193
+    21300388: Green King Goblin_194
+    21300390: Green King Goblin_195
+    21300392: Green King Goblin_196
+    21300394: Green King Goblin_197
+    21300396: Green King Goblin_198
+    21300398: Green King Goblin_199
+    21300400: Green King Goblin_200
+    21300402: Green King Goblin_201
+    21300404: Green King Goblin_202
+    21300406: Green King Goblin_203
+    21300408: Green King Goblin_204
+    21300410: Green King Goblin_205
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green King Goblin_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1756
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1756
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1756
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1756
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1756
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_10
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1756
+        width: 128
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1583
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1583
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1583
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_18
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1583
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1583
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_20
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1583
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1418
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_83
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1255
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_84
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1255
+        width: 159
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_85
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1255
+        width: 167
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_86
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1255
+        width: 161
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_87
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1252
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1126
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1125
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1125
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_91
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1128
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_92
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1018
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_93
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1008
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 861
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_99
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 860
+        width: 138
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_100
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 862
+        width: 127
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_101
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 862
+        width: 134
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_102
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 868
+        width: 133
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_103
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 832
+        width: 132
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_104
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 658
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_107
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 653
+        width: 227
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_111
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 658
+        width: 227
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_116
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 657
+        width: 223
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_154
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 514
+        width: 137
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_161
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 515
+        width: 141
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_166
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 515
+        width: 178
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_191
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 324
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_192
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 324
+        width: 173
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_195
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 324
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_196
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 324
+        width: 184
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_197
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 323
+        width: 198
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_198
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 147
+        width: 216
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_200
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 146
+        width: 129
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_201
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 145
+        width: 129
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_202
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 145
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_203
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 145
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_204
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 17
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green King Goblin_205
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 16
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

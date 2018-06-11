@@ -1,0 +1,516 @@
+E:\Unity project\2 milion\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Unity project\2 milion\Temp\bin\Debug\Boo.Lang.dll
+E:\Unity project\2 milion\Temp\bin\Debug\mscorlib.dll
+E:\Unity project\2 milion\Temp\bin\Debug\System.Core.dll
+E:\Unity project\2 milion\Temp\bin\Debug\System.dll
+E:\Unity project\2 milion\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Unity project\2 milion\Temp\bin\Debug\System.Xml.dll
+E:\Unity project\2 milion\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.Locator.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEditor.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityScript.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.Cecil.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.DataContract.dll
+E:\Unity project\2 milion\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\Unity project\2 milion\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEditor.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Unity project\2 milion\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Unity project\2 milion\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Unity project\2 milion\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Unity project\2 milion\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Unity project\2 milion\obj\Debug\Assembly-CSharp.dll
+E:\Unity project\2 milion\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\mscorlib.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\System.Core.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\System.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\System.Xml.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityScript.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Crow\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Crow\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Crow\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Crow\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.dll
+C:\Users\Crow\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.pdb
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\mscorlib.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\System.Core.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\System.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\System.Xml.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEditor.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityScript.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEditor.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.dll
+C:\Users\LeXuanTien\Documents\GitHub\Game-ez\obj\Debug\Assembly-CSharp.pdb
