@@ -23,26 +23,26 @@ public class TaurospearBT : MonoBehaviour {
     }
 
     [System.Serializable]
-    public class ShortAttack
+    public class ShortAttack : Vision
     {
-        public DamageSystem meleeDamage;
-        public float distance;
+        public DamageSystem meleeDamage1;
+        public DamageSystem meleeDamage2;
+
+        public int finalSkillLength; 
+
         public bool attackDash;
         public Vector2 attackForce;
-        public float coolDownShortAttack;
+        public float coolDownShortAttack1;
+        public float coolDownShortAttack2;
     }
 
-    [System.Serializable]
-    public class LongAttack : Vision
-    {
-        public float coolDownLongAttack;
-    }
-
+ 
+    public DamageSystem touchDamage;
     public bool spriteFacingLeft;
     public Movement movement;
     public Vision vision;
     public ShortAttack shortAttack;
-    public LongAttack longAttack;
+
     public Vector2 HoleDetectionOffset = new Vector2(0, 0);
     public float RayOffset = 0.05f;
     public float obstacleHeightTolerance = 0.05f;
@@ -56,29 +56,75 @@ public class TaurospearBT : MonoBehaviour {
     Transform targetVisible;
     Animator animator;
     Rect bound;
-    BoxCollider2D boxCollider2D;
-    PlayerController2D playerController2D;
-    public float _coolDownShortAttack;
-    public float _coolDownLongAttack;
-    Root ai = BT.Root();
-    bool flag1, flag2,canpatrol;
 
+    public float _coolDownShortAttack1;
+    public float _coolDownShortAttack2;
+    Root ai = BT.Root();
+    bool flag1, flag2,canpatrol,finalSkill,dead;
+    int numberTurn;
+    public HealthSystem healthSystem;
+    public BoxCollider2D boxCollider2D;
+    public PlayerController2D playerController2D;
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         spriteForward = spriteFacingLeft ? Vector2.left : Vector2.right;
         if (spriteRenderer.flipX) spriteForward = -spriteForward;
-        boxCollider2D = GetComponent<BoxCollider2D>();
+       // boxCollider2D = GetComponent<BoxCollider2D>();
         animator = GetComponent<Animator>();
-        playerController2D = GetComponent<PlayerController2D>();
+       // playerController2D = GetComponent<PlayerController2D>();
+
+        touchDamage.EnableDamage();
+        DisableMeleeDamage1();
+        DisableMeleeDamage2();
+
     }
 
     private void OnEnable()
     {
-        _coolDownShortAttack = -1;
-        _coolDownLongAttack = -1;
+        dead = false;
+        touchDamage.EnableDamage();
+        _coolDownShortAttack1 = -1;
+        _coolDownShortAttack2 = -1;
         canpatrol = true;
+        finalSkill = false;
+        DisableMeleeDamage1();
+        DisableMeleeDamage2();
+
         BehaviourTree();
+    }
+
+
+    public void EnableMeleeDamage1()
+    {
+        if (shortAttack.meleeDamage1 != null)
+        {
+            shortAttack.meleeDamage1.EnableDamage();
+        }
+    }
+
+    public void EnableMeleeDamage2()
+    {
+        if (shortAttack.meleeDamage2 != null)
+        {
+            shortAttack.meleeDamage2.EnableDamage();
+        }
+    }
+
+    public void DisableMeleeDamage1()
+    {
+        if (shortAttack.meleeDamage1 != null)
+        {
+            shortAttack.meleeDamage1.DisableDamage();
+        }
+    }
+
+    public void DisableMeleeDamage2()
+    {
+        if (shortAttack.meleeDamage2 != null)
+        {
+            shortAttack.meleeDamage2.DisableDamage();
+        }
     }
 
     void BehaviourTree()
@@ -90,7 +136,7 @@ public class TaurospearBT : MonoBehaviour {
             ),
 
 
-            BT.If(() => { return targetVisible != null /*&& canpatrol*/;  }).OpenBranch(              
+            BT.If(() => { return targetVisible != null /*&& canpatrol*/; }).OpenBranch(
                 // Va chạm -> lật lại
                 BT.If(() => { return CheckForObstacle() == true; }).OpenBranch(
                     BT.Call(Flip)
@@ -98,67 +144,128 @@ public class TaurospearBT : MonoBehaviour {
                 BT.Call(SetHorizontalSpeed)
             ),
 
-       
-            BT.If(() => { return (ScanTargetInLongAttackArea() == true && flag2 == true); }).OpenBranch(
+            BT.If(() => { return healthSystem.currentHealth > 0; }).OpenBranch(
+                /// Thực hiện đánh bằng mũi giáo
+                BT.If(() => { return healthSystem.currentHealth <= (float)healthSystem.initHealth / 2 && finalSkill == false; }).OpenBranch(
+                     BT.If(() => { return (CheckMeleeAttack() == true && flag2 == true); }).OpenBranch(
 
-                BT.Call(RandomSkill),
-                BT.If(() => { return flag2 == true; }).OpenBranch(
+                            BT.SetBool(animator, "Patrolling", false),
+                            // Dừng lại:
+                            BT.Call(Stop),
+                            //    BT.SetBool(animator, "Patrolling", false),
+                            // Chuyển sang trạng thái chờ chiêu thức đánh:
+                            BT.Trigger(animator, "Attack"),
+                            BT.WaitForAnimatorState(animator, "Attack"),
+                            // Thực hiện chiêu đánh 1:
+                            BT.Trigger(animator, "Attack_2"),
+                            // Khi thực hiện xong bật cờ kiểm tra lượt đánh tiếp theo khi nào sẽ diễn ra:            
+                            BT.WaitForAnimatorState(animator, "Attack_2"),
+                            BT.Call(ResetCoolDownShortAttack2),
+                            BT.Wait(1),
+                            BT.SetBool(animator, "Patrolling", true)//,
 
+                    )
+                ),
+
+                /// Thực hiện đánh từ trên xuống
+                BT.If(() => { return healthSystem.currentHealth > (float)1 / 2 * healthSystem.initHealth; }).OpenBranch(
+                    // Nếu nằm trong vùng tấn công gần:
+                    BT.If(() => { return (CheckMeleeAttack() == true && flag1 == true); }).OpenBranch(
+
+                            BT.SetBool(animator, "Patrolling", false),
+                            BT.Call(Stop),
+                            BT.Trigger(animator, "Attack"),
+                            BT.WaitForAnimatorState(animator, "Attack"),
+
+                            // Thực hiện chiêu đánh 1:
+                            BT.Trigger(animator, "Attack_1"),
+                            //BT.Call(EnableMeleeDamage1),
+                            // Khi thực hiện xong bật cờ kiểm tra lượt đánh tiếp theo khi nào sẽ diễn ra:            
+                            BT.WaitForAnimatorState(animator, "Attack_1"),
+                            //BT.Call(DisableMeleeDamage1),
+                            BT.Call(ResetCoolDownShortAttack1),
+                            BT.Wait(1),
+                            // Chuyển sang trạng thái chờ chiêu thức đánh:                                        
+                            BT.SetBool(animator, "Patrolling", true)
+               
+                     )
+                ),
+
+                // Khi sắp chết - xài chiêu cuôi. Tăng speed di chuyển 2-5 vòng liên tiếp
+                 BT.If(() => { return healthSystem.currentHealth <= (float)1 / 4 * healthSystem.initHealth && numberTurn ==0;  }).OpenBranch(
+
+                    BT.Call(InverseFinalSkill),
                     BT.SetBool(animator, "Patrolling", false),
-                    // Dừng lại:
                     BT.Call(Stop),
-                    //    BT.SetBool(animator, "Patrolling", false),
-                    // Chuyển sang trạng thái chờ chiêu thức đánh:
                     BT.Trigger(animator, "Attack"),
                     BT.WaitForAnimatorState(animator, "Attack"),
                     // Thực hiện chiêu đánh 1:
-                    BT.Trigger(animator, "Attack_2"),
+                    BT.Trigger(animator, "FinalSkill"),
+                    BT.WaitUntil(FinalSkill),
+                    BT.Call(InverseFinalSkill),
+                    BT.Trigger(animator, "FinalSkillStop"),
+                    BT.Wait(1),
+                    //BT.Call(EnableMeleeDamage1),
                     // Khi thực hiện xong bật cờ kiểm tra lượt đánh tiếp theo khi nào sẽ diễn ra:            
-                    BT.WaitForAnimatorState(animator, "Attack_2"),
-                    BT.Call(ResetCoolDownLongAttack),
-                    BT.SetBool(animator, "Patrolling", true)//,
-                 )                                             //  BT.Call(ForgetTarget)
-            ),
-
-            // Nếu nằm trong vùng tấn công gần:
-            BT.If(() => { return (CheckMeleeAttack() == true && flag1 == true); }).OpenBranch(
-
-                BT.Call(RandomSkill),
-                BT.If ( ()=> { return flag1 == true; } ).OpenBranch(
-                                  
-                    BT.SetBool(animator, "Patrolling",false),
-                    // Dừng lại:
-                    BT.Call(Stop),
-                //    BT.SetBool(animator, "Patrolling", false),
-                    // Chuyển sang trạng thái chờ chiêu thức đánh:
-                    BT.Trigger(animator, "Attack"), 
-                    BT.WaitForAnimatorState(animator, "Attack"),
-                    // Thực hiện chiêu đánh 1:
-                    BT.Trigger(animator, "Attack_1"),
-                        // Khi thực hiện xong bật cờ kiểm tra lượt đánh tiếp theo khi nào sẽ diễn ra:            
-                    BT.WaitForAnimatorState(animator, "Attack_1"),
-                    BT.Call(ResetCoolDownShortAttack),
-                        BT.SetBool(animator, "Patrolling", true)//,
-                    //  BT.Call(ForgetTarget)
+                    // BT.WaitForAnimatorState(animator, "Attack_1"),
+                    //BT.Call(DisableMeleeDamage1),
+                    // Chuyển sang trạng thái chờ chiêu thức đánh:                                        
+                    BT.SetBool(animator, "Patrolling", true)
                 )
-           )
+            )
+
         );
+    }
+
+    public void OnDie()
+    {
+        animator.SetTrigger("Die");
+        DisableMeleeDamage1();
+        DisableMeleeDamage2();
+        dead = true;
+    }
+
+    public void Despawned()
+    {
+        var existInPool = PoolManager.Instance.myObjectPools["Enemies"].Despawn(transform);
+        if (!existInPool)
+            Destroy(gameObject);
+    }
+
+    public void InverseFinalSkill()
+    {
+        finalSkill =! finalSkill;
+    }
+
+    public bool FinalSkill()
+    {
+        moveVector.x = movement.speed * 3.0f*spriteForward.x;
+        if (CheckForObstacle() == true)
+        {
+            numberTurn++;  Flip();
+        }
+
+        if (numberTurn == shortAttack.finalSkillLength)
+            return true;
+
+        return false;
     }
 
     public void RandomSkill()
     {
-        if(flag1 && flag2)
+        if (flag1 && flag2)
         {
-           int r = Random.Range(0, 2);
+            int r = Random.Range(0, 2);
             Debug.Log(r);
-           if(r == 0)
+            if (r == 0)
             {
                 flag2 = false;
-                ResetCoolDownLongAttack();
-            } else
+                ResetCoolDownShortAttack2();
+            }
+            else
             {
                 flag1 = false;
-                ResetCoolDownShortAttack();
+                ResetCoolDownShortAttack1();
             }
         }
     }
@@ -170,13 +277,13 @@ public class TaurospearBT : MonoBehaviour {
 
         Vector3 dir = targetVisible.position - transform.position;
 
-        if (dir.sqrMagnitude > longAttack.distance * longAttack.distance)
+        if (dir.sqrMagnitude > shortAttack.distance * shortAttack.distance)
             return false;
 
-        Vector3 testForward = Quaternion.Euler(0, 0, spriteFacingLeft ? Mathf.Sign(spriteForward.x) * -longAttack.direction : Mathf.Sign(spriteForward.x) * longAttack.direction) * spriteForward;
+        Vector3 testForward = Quaternion.Euler(0, 0, spriteFacingLeft ? Mathf.Sign(spriteForward.x) * -shortAttack.direction : Mathf.Sign(spriteForward.x) * shortAttack.direction) * spriteForward;
         // Debug.DrawRay(transform.position,testForward);
         float angle = Vector3.Angle(testForward, dir);
-        if (angle > longAttack.fov * 0.5f)
+        if (angle > shortAttack.fov * 0.5f)
             return false;
 
         return true;
@@ -192,49 +299,66 @@ public class TaurospearBT : MonoBehaviour {
     public void Attack1()
     {
         // Trả về true để quái có thể tấn công => bật cờ
-        if(_coolDownShortAttack <=0)
+        if(_coolDownShortAttack1 <=0)
         {
             flag1 = true;
         } else
         {
-            _coolDownShortAttack -= Time.deltaTime;
+            _coolDownShortAttack1 -= Time.deltaTime;
         }
     }
 
     public void Attack2()
     {
         // Trả về true để quái có thể tấn công => bật cờ
-        if (_coolDownLongAttack <= 0)
+        if (_coolDownShortAttack2 <= 0)
         {
             flag2 = true;
         }
         else
         {
-            _coolDownLongAttack -= Time.deltaTime;
+            _coolDownShortAttack2 -= Time.deltaTime;
         }
     }
 
-    void ResetCoolDownShortAttack()
+    void ResetCoolDownShortAttack1()
     {
-        _coolDownShortAttack = shortAttack.coolDownShortAttack;
+        _coolDownShortAttack1 = shortAttack.coolDownShortAttack1;
         flag1 = false;
     }
 
-    void ResetCoolDownLongAttack()
+    void ResetCoolDownShortAttack2()
     {
-        _coolDownLongAttack = longAttack.coolDownLongAttack;
+        _coolDownShortAttack2 = shortAttack.coolDownShortAttack2;
         flag2 = false;
     }
 
     public bool CheckMeleeAttack()
     {
+
         if (targetVisible == null)
             return false;
 
-        if ((targetVisible.transform.position - transform.position).sqrMagnitude < shortAttack.distance * shortAttack.distance)
-            return true;
+        Vector3 dir = targetVisible.position - transform.position;
 
-        return false;
+        if (dir.sqrMagnitude > shortAttack.distance * shortAttack.distance)
+            return false;
+
+        Vector3 testForward = Quaternion.Euler(0, 0, spriteFacingLeft ? Mathf.Sign(spriteForward.x) * -shortAttack.direction : Mathf.Sign(spriteForward.x) * shortAttack.direction) * spriteForward;
+        // Debug.DrawRay(transform.position,testForward);
+        float angle = Vector3.Angle(testForward, dir);
+        if (angle > shortAttack.fov * 0.5f)
+            return false;
+
+        return true;
+
+        //if (targetVisible == null)
+        //    return false;
+
+        //if ((targetVisible.transform.position - transform.position).sqrMagnitude < shortAttack.distance * shortAttack.distance)
+        //    return true;
+
+        //return false;
     }
 
     public void SetHorizontalSpeed()
@@ -338,13 +462,13 @@ public class TaurospearBT : MonoBehaviour {
         animator.SetBool("Patrolling", true);
     }
 
-    // Use this for initialization
-    void Start () {
-		
-	}
-	
+
 	// Update is called once per frame
 	void FixedUpdate () {
+
+        if (dead)
+            return;
+
         moveVector.y = Mathf.Max(moveVector.y - movement.gravity * Time.deltaTime, -movement.gravity);
         playerController2D.Move(moveVector * Time.deltaTime);
         playerController2D.CheckCollisionDown();
@@ -352,6 +476,9 @@ public class TaurospearBT : MonoBehaviour {
 
     private void Update()
     {
+        if (dead)
+            return; 
+
         ai.Tick();
         Attack1();
         Attack2();
@@ -372,18 +499,18 @@ public class TaurospearBT : MonoBehaviour {
 
         // draw long attack
         forward = spriteFacingLeft ? Vector2.left : Vector2.right;
-        forward = Quaternion.Euler(0, 0, spriteFacingLeft ? -longAttack.direction : longAttack.direction) * forward;
+        forward = Quaternion.Euler(0, 0, spriteFacingLeft ? -shortAttack.direction : shortAttack.direction) * forward;
 
         if (GetComponent<SpriteRenderer>().flipX)
             forward.x = -forward.x;
 
-        endpoint = transform.position + (Quaternion.Euler(0, 0, longAttack.fov * 0.5f) * forward);
+        endpoint = transform.position + (Quaternion.Euler(0, 0, shortAttack.fov * 0.5f) * forward);
         Handles.color = new Color(0.5f, 0, 1, 0.1f);
-        Handles.DrawSolidArc(transform.position, -Vector3.forward, (endpoint - transform.position).normalized, longAttack.fov, longAttack.distance);
+        Handles.DrawSolidArc(transform.position, -Vector3.forward, (endpoint - transform.position).normalized, shortAttack.fov, shortAttack.distance);
 
         ////Draw short
-        Handles.color = new Color(1.0f, 0, 0, 0.1f);
-        Handles.DrawSolidDisc(transform.position, Vector3.back, shortAttack.distance);
+        //Handles.color = new Color(1.0f, 0, 0, 0.1f);
+       // Handles.DrawSolidDisc(transform.position, Vector3.back, shortAttack.distance);
 
     }
 
