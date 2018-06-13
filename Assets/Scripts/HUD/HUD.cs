@@ -31,7 +31,11 @@ public class HUD : MonoBehaviour
 
     public void UpdateGUI()
     {
-        
+
+        if (playerHealth.currentHealth < 0)
+        {
+            playerHealth.currentHealth = 0;
+        }
         HealthUI.rectTransform.localScale = new Vector2(10 * playerHealth.currentHealth / 100, HealthUI.rectTransform.localScale.y);
 
     }
